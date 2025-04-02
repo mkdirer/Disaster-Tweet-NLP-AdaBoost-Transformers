@@ -1,6 +1,6 @@
 # Disaster-Tweet-NLP-AdaBoost-Transformers
 
-This project aims to recognize whether a given tweet is about a disaster or not. The task is solved using transformers with the AdaBoost technique.
+This project aims to recognize whether a given tweet is about a disaster or not. The task is solved using transformers with the AdaBoost technique. 
 
 ## Project Stages
 
